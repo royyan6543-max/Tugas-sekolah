@@ -1,5 +1,4 @@
 [Arsip Negara.html.html](https://github.com/user-attachments/files/22420296/Arsip.Negara.html.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,6 +28,7 @@
         <style>
             table, td, th {
                 border: 2px solid black;
+                border-collapse: collapse;
             }
 
             td, td {
